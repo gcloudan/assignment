@@ -1,0 +1,1 @@
+ hashcat --attack-mode 3 --increment --increment-min 4 --increment-max 8 --hash-type 1000 uncracked "?a?a?a?a?a?a?a?a?a?a?a?a"
